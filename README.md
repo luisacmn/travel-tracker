@@ -1,4 +1,4 @@
-## Travek Tracker
+## Travel Tracker
 Fullstack app using Node.js, EJS and Postgres SQL database.
 - Node.js
 - EJS
